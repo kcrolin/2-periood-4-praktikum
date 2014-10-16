@@ -1,0 +1,12 @@
+body {background: #A4A4A4;}
+
+.content
+{padding:15px;
+text-align:center;
+background: white; 
+width:300px;
+min-height:300px;
+border-radius:2px;
+box-shadow: 2px 2px 2px #666;}
+
+span {color: #0066CC;}
